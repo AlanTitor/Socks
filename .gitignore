@@ -1,0 +1,161 @@
+# Локальные настройки IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Временные файлы IDE
+*.class
+*.log
+*.tmp
+*.swp
+
+# Выходные данные сборки Gradle
+build/
+.gradle/
+
+# Выходные данные сборки Maven
+target/
+
+# Локальные настройки Maven
+.mvn/
+
+# Локальные настройки пользователя
+.settings/
+.project
+.classpath
+
+# Локальные настройки Spring Boot
+.spring-boot-devtools.properties
+
+# Локальные настройки базы данных (например, H2)
+*.h2.db
+*.mv.db
+*.trace.db
+
+# Локальные настройки Docker
+Dockerfile
+docker-compose.yml
+
+# Локальные настройки тестов
+*.test.properties
+*.test.yml
+
+# Локальные настройки конфигурации
+application-*.yml
+application-*.properties
+
+# Локальные настройки базы данных
+*.sql
+
+# Локальные настройки сертификатов
+*.keystore
+*.jks
+
+# Локальные настройки ключей
+*.key
+*.pem
+
+# Локальные настройки SSH
+id_rsa
+id_rsa.pub
+
+# Локальные настройки Git
+.gitignore_global
+
+# Локальные настройки Gradle
+gradle-wrapper.jar
+
+# Локальные настройки Swagger
+swagger-ui.html
+
+# Локальные настройки Jacoco
+jacoco.exec
+
+# Локальные настройки SonarQube
+.scannerwork/
+
+# Локальные настройки IntelliJ IDEA
+out/
+
+# Локальные настройки Eclipse
+.metadata/
+
+# Локальные настройки логов
+logs/
+*.log
+
+# Локальные настройки кэша
+.cache/
+
+# Локальные настройки временных файлов
+tmp/
+
+# Локальные настройки отчетов
+reports/
+
+# Локальные настройки отладки
+.debug/
+
+# Локальные настройки зависимостей
+*.lock
+
+# Локальные настройки конфигурации Docker
+.dockerignore
+
+# Локальные настройки конфигурации Kubernetes
+.kube/
+
+# Локальные настройки конфигурации Helm
+.helm/
+
+# Локальные настройки конфигурации Terraform
+.terraform/
+
+# Локальные настройки конфигурации Ansible
+.ansible/
+
+# Локальные настройки конфигурации Jenkins
+.jenkins/
+
+# Локальные настройки конфигурации GitLab
+.gitlab/
+
+# Локальные настройки конфигурации GitHub
+.github/
+
+# Локальные настройки конфигурации Bitbucket
+.bitbucket/
+
+# Локальные настройки конфигурации Azure DevOps
+.azuredevops/
+
+# Локальные настройки конфигурации CircleCI
+.circleci/
+
+# Локальные настройки конфигурации Travis CI
+.travis/
+
+# Локальные настройки конфигурации AppVeyor
+.appveyor/
+
+# Локальные настройки конфигурации Codecov
+.codecov/
+
+# Локальные настройки конфигурации Coveralls
+.coveralls/
+
+# Локальные настройки конфигурации SonarCloud
+.sonarcloud/
+
+# Локальные настройки конфигурации CodeClimate
+.codeclimate/
+
+# Локальные настройки конфигурации Codacy
+.codacy/
+
+# Локальные настройки конфигурации Snyk
+.snyk/
+
+# Локальные настройки конфигурации Dependabot
+.dependabot/
